@@ -6,7 +6,7 @@ class CustomException(Exception):
 
 
 class UncatchedException(Exception):
-    pass
     """
     メインロジックでキャッチさせない例外。
     """
+    pass
